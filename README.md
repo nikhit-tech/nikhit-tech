@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Cloud & DevOps Engineer with 9+ years of experience designing, automating, and operating scalable, secure, and highly available systems across AWS, Azure, and Google Cloud. My work centers around building end-to-end CI/CD pipelines, managing large-scale Kubernetes clusters, automating infrastructure using Terraform and CloudFormation, and implementing strong observability practices with Prometheus, Grafana, ELK, Splunk, and Datadog.
+I’m a Cloud & DevOps Engineer with 10+ years of experience designing, automating, and operating scalable, secure, and highly available systems across AWS, Azure, and Google Cloud. My work centers around building end-to-end CI/CD pipelines, managing large-scale Kubernetes clusters, automating infrastructure using Terraform and CloudFormation, and implementing strong observability practices with Prometheus, Grafana, ELK, Splunk, and Datadog.
 
 I have hands-on expertise with Jenkins, GitLab CI, GitHub Actions, Docker, Kubernetes, OpenShift, Helm, and Argo CD, along with configuration management using Ansible, Chef, and Puppet. I am proficient in Bash, Python, and PowerShell automation, and experienced in microservices, serverless architectures, and container orchestration across EKS, AKS, and GKE.
 
